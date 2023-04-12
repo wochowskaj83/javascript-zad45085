@@ -1,8 +1,8 @@
 let firstNumber = 7;
 let secondNumber = 11;
 
-function sum(firstNumber, secondNumber) {
-    let result = firstNumber + secondNumber;
+function sum(numberone, numbertwo) {
+    let result = numberone + numbertwo;
 
     return result;
 }
